@@ -1,10 +1,11 @@
-# awesome-lidar-curb-detection
+# awesome-lidar-curb-detection [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 The following table consists of many LiDAR curb/boundary detection method
 
-- [ ] Translate into English version
 
----
+
+
+- [ ] Translate into English version
   
 | Method | Link | comment | TODO |
 | :------------------: | :-----------------: | :-----------------: |:-----------------: |
