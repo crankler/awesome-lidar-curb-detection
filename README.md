@@ -7,6 +7,9 @@ The following table consists of many **LiDAR curb / boundary** detection method
 ### Todolist
 - [ ] Translate into English version
 - [ ] revise the details that not clearly here
+- [ ] add a lidar curb/boundary paper list pkg few days.
+- [ ] try to qualitatively contrast the different method
+- [ ] try to Quantitative comparison with few paper
   
 ---
 ### Compare results
