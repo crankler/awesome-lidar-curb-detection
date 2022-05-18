@@ -1,16 +1,19 @@
 # awesome-lidar-curb-detection [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-The following table consists of many LiDAR curb/boundary detection method
+The following table consists of many **LiDAR curb / boundary** detection method
 
 
 
-
+### Todolist
 - [ ] Translate into English version
+- [ ] revise the details that not clearly here
   
+---
+### Compare results
 | Method | Link | comment | TODO |
 | :------------------: | :-----------------: | :-----------------: |:-----------------: |
 | **道路线分割** | [fastseg](https://github.com/shrijitsingh99/fastseg) | 教程输出不同的beam线条 | 测试 |
-| **Ring+高度＋曲率** | [CurbDetector](https://github.com/DrGabor/CurbDetector) |matlab代码，比较了三个方法．还是ring的方法好 |　测试
+| **Ring+高度＋曲率** | [CurbDetector](https://github.com/DrGabor/CurbDetector) |matlab代码，比较了三个方法．还是ring的方法好 |测试
 | **高度+水平+曲率** | [LidarRoadBoundaryDetection](https://github.com/wangguojun2018/LidarRoadBoundaryDetection) | 开源代码.好! | 测试 |
 | **高度+水平+曲率** | [lidar_based_lane_detection_projects](https://github.com/eriche2016/lidar_based_lane_detection_projects) | python版本,测试感觉不错,同上 | 测试 |
 | **高度+水平+曲率** | [MATLAB-Curb Detection in 3-D Lidar Point Cloud](https://ww2.mathworks.cn/help/lidar/ug/curb-detection-in-lidar-point-cloud.html) | matlab2022版本,同上 | 测试 |
